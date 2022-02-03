@@ -50,10 +50,7 @@ main {
 
     h2 {
         color: variables.$Very-Dark-Cyan;
-
-            @include media-md {
-                margin-bottom: 1rem;
-            }
+        margin-bottom: 1rem;
     }
     
     p {

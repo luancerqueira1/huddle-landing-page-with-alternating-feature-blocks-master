@@ -1,6 +1,15 @@
 # Frontend Mentor - Huddle landing page with alternating feature blocks solution
 
 
+### Built with
+
+- Semantic HTML5 markup
+- scss
+- Flexbox
+- Grid
+- Mobile-first
+
+
 ### Screenshots
 
 <div align="center">
