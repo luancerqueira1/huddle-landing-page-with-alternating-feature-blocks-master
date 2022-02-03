@@ -6,7 +6,7 @@
 <div align="center">
 The desktop design VS My desktop solution<br>
 <a href="design/desktop-design.jpg" target="_blank"><img src="design/desktop-design.jpg" width="45%" height="60%"/></a> 
-<a href="solutionscreenshots/desktop.png" target="_blank"><img src="solutionscreenshots/desktop.png" width="45%" height="60%" align="top"/></a>
+<a href="solution-screenshots/desktop.png" target="_blank"><img src="solution-screenshots/desktop.png" width="45%" height="60%" align="top"/></a>
 </div>
 
 <br>
