@@ -15,3 +15,4 @@ The desktop design VS My desktop solution<br>
 The mobile design VS My mobile solution<br>
 <a href="challenge/mobile-design.jpg" target="_blank"><img src="challenge/mobile-design.jpg" width="20%" height="20%"/></a> <a href="solution-screenshots/desktop-preview.png" target="_blank"><img src="solution-screenshots/mobile-preview.png" width="20%" height="20%" align="top"/></a>
 </div>
+o
